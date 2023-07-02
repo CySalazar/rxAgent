@@ -1,0 +1,6 @@
+{
+  "AgentRevision": "1.0.2",
+  "AgentLink": "https://1drv.ms/u/s!AoiO6Q8zd8aFlslzcAkafVas3-FW6w?e=AyGjFR",
+  "UpdaterRevision": "1.0.0",
+  "UpdaterLink": "https://1drv.ms/u/s!AoiO6Q8zd8aFlsl2uLrXb-f0EY1XrA?e=xoTKjd"
+}
